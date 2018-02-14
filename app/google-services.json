@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "195576946346",
+    "firebase_url": "https://onechat-7a7db.firebaseio.com",
+    "project_id": "onechat-7a7db",
+    "storage_bucket": "onechat-7a7db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195576946346:android:6ed713aa1ec54713",
+        "android_client_info": {
+          "package_name": "com.example.stusupbekov.onechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195576946346-sik4lf93icg0fugsogc60jjjd02dc4ru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stusupbekov.onechat",
+            "certificate_hash": "00c9752752ddd4c0f0e27a8f68b6741cbb1442b6"
+          }
+        },
+        {
+          "client_id": "195576946346-ndhv5e5p2sg27kmiosd8gvcf5f6p5b4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzb8SOZfKALD20E2-uR-4mSrc8WyNzDIM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195576946346-ndhv5e5p2sg27kmiosd8gvcf5f6p5b4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
