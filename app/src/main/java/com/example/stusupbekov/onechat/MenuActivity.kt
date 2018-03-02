@@ -21,4 +21,6 @@ class MenuActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         super.onCreate(savedInstanceState)
         setContentView(R.layout.menu_activity)
     }
+
+
 }
